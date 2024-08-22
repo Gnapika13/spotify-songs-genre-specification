@@ -1,1 +1,1 @@
-# spotify-songs-genre-specification
+# spotify-songs-genre-segmentation
